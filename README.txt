@@ -1,0 +1,1 @@
+This rails project is the creation of an online retail site.  It is being created as I work through the book Agile Web Develoment with Rails
